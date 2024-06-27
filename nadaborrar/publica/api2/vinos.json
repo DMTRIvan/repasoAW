@@ -1,0 +1,100 @@
+{
+    "vinos_argentinos": [
+      {
+        "id": 1,
+        "tipo_uva": "Malbec",
+        "provincia": "Mendoza",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Catena Zapata",
+        "nombre_vino": "Catena Zapata Malbec"
+      },
+      {
+        "id": 2,
+        "tipo_uva": "Chardonnay",
+        "provincia": "Mendoza",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Catena Zapata",
+        "nombre_vino": "Catena Alta Chardonnay"
+      },
+      {
+        "id": 3,
+        "tipo_uva": "Cabernet Sauvignon",
+        "provincia": "Mendoza",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Catena Zapata",
+        "nombre_vino": "Catena Zapata Cabernet Sauvignon"
+      },
+      {
+        "id": 4,
+        "tipo_uva": "Malbec",
+        "provincia": "Mendoza",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Norton",
+        "nombre_vino": "Norton Privada Malbec"
+      },
+      {
+        "id": 5,
+        "tipo_uva": "Merlot",
+        "provincia": "Mendoza",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Norton",
+        "nombre_vino": "Norton Reserva Merlot"
+      },
+      {
+        "id": 6,
+        "tipo_uva": "Cabernet Sauvignon",
+        "provincia": "Mendoza",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Norton",
+        "nombre_vino": "Norton Reserva Cabernet Sauvignon"
+      },
+      {
+        "id": 7,
+        "tipo_uva": "Torrontés",
+        "provincia": "Salta",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Colomé",
+        "nombre_vino": "Colomé Torrontés"
+      },
+      {
+        "id": 8,
+        "tipo_uva": "Malbec",
+        "provincia": "Salta",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Colomé",
+        "nombre_vino": "Colomé Auténtico Malbec"
+      },
+      {
+        "id": 9,
+        "tipo_uva": "Syrah",
+        "provincia": "Salta",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Colomé",
+        "nombre_vino": "Colomé Estate Syrah"
+      },
+      {
+        "id": 10,
+        "tipo_uva": "Bonarda",
+        "provincia": "San Juan",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Callia",
+        "nombre_vino": "Callia Alta Bonarda"
+      },
+      {
+        "id": 11,
+        "tipo_uva": "Malbec",
+        "provincia": "San Juan",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Callia",
+        "nombre_vino": "Callia Magna Malbec"
+      },
+      {
+        "id": 12,
+        "tipo_uva": "Tannat",
+        "provincia": "San Juan",
+        "centimetros_cubicos": 750,
+        "bodega": "Bodega Callia",
+        "nombre_vino": "Callia Alta Tannat"
+      }
+    ]
+  }
